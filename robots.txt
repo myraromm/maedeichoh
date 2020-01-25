@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaephepho.aurorayes.com/sitemap.xml
